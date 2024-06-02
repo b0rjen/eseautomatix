@@ -19,6 +19,7 @@ El proyecto ahora mismo está en fase de prueba.
 
 ## Estructura del Proyecto
 
+```plaintext
 eseautomatix/
 ├── .env (variables de entorno)
 ├── .gitignore
