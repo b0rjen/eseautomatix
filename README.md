@@ -1,6 +1,6 @@
 # 📧 [AUT]_email.py - Automatización de Emails 🚀
 
-![Automatización](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0yemgxYzNhZ2Q0NHl0d2o0MXJvM2doenM5cTJyYTJoc3pkMTF2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1IeJKClJhpmwQBAki/giphy.webp)
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG0yemgxYzNhZ2Q0NHl0d2o0MXJvM2doenM5cTJyYTJoc3pkMTF2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1IeJKClJhpmwQBAki/giphy.webp" width="300" alt="Automatización">
 
 ## Descripción del Proyecto
 
